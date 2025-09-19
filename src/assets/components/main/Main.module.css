@@ -1,0 +1,12 @@
+.main{
+    background-color: sienna;
+    padding: 50px;
+    width:60%;
+    margin: auto;
+    margin-top:50px;
+}
+
+.main h1{
+    color: white;
+    text-align: center;
+}
